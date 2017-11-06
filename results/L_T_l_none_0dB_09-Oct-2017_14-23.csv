@@ -1,0 +1,6 @@
+listener,date,sTime,ear,trial,targets,SNR,OutLevelChange,duty,change,masker,wave,w1,w2,w3,sum,PlayedSentence,TypedSentence,total,rTime,rev
+L,09-Oct-2017,14:23:09,l,1,ASLQ, +0.0, +0.0,1.000,0.000,none,ASLQ0101,1,1,1,3,       they               moved               furniture,none,14:23:26
+L,09-Oct-2017,14:23:09,l,2,ASLQ, +0.0, +0.0,1.000,0.000,none,ASLQ0102,1,1,1,3,       he's               wiping              table,none,14:23:34
+L,09-Oct-2017,14:23:09,l,3,ASLQ, +0.0, +0.0,1.000,0.000,none,ASLQ0103,1,1,1,3,       he                 hit                 head,none,14:23:40
+L,09-Oct-2017,14:23:09,l,4,ASLQ, +0.0, +0.0,1.000,0.000,none,ASLQ0104,1,1,1,3,       yellow             leaves              falling,none,14:23:45
+L,09-Oct-2017,14:23:09,l,5,ASLQ, +0.0, +0.0,1.000,0.000,none,ASLQ0105,1,1,1,3,       cat                played              wool,none,14:23:51

@@ -1,0 +1,2 @@
+listener,date,sTime,endTime,ear,SelfResponse,type,stimuli,noise,SNR,version,finish,nCorrect,nKeys,pc,nTrials
+L,09-Oct-2017,17:57:39,17:59:32,L,0,ASL,ASLQ,Fbabble1_not_filtered_0_905_slower,0,Version 4.6,QUIT,18,18,1,7,

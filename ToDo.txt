@@ -1,0 +1,2 @@
+In the middle of interruptAlt.m dealing with warning noises
+need to taper onset of target

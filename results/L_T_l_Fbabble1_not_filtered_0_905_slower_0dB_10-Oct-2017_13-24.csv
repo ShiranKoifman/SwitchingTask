@@ -1,0 +1,10 @@
+listener,date,sTime,ear,trial,targets,SNR,OutLevelChange,duty,change,masker,wave,w1,w2,w3,sum,PlayedSentence,TypedSentence,total,rTime,rev
+L,10-Oct-2017,13:24:04,l,1,ASLQ, +0.0, +0.0,0.970,0.120,Fbabble1_not_filtered_0_905_slower,ASLQ0101,0,0,0,0,       they               moved               furniture,none,13:47:14
+L,10-Oct-2017,13:24:04,l,2,ASLQ, +0.0, +0.0,0.974,0.093,Fbabble1_not_filtered_0_905_slower,ASLQ0102,1,1,1,3,       he's               wiping              table,none,13:47:18
+L,10-Oct-2017,13:24:04,l,3,ASLQ, +0.0, +0.0,0.907,0.067,Fbabble1_not_filtered_0_905_slower,ASLQ0103,1,1,1,3,       he                 hit                 head,none,13:47:21
+L,10-Oct-2017,13:24:04,l,4,ASLQ, +0.0, +0.0,0.841,0.067,Fbabble1_not_filtered_0_905_slower,ASLQ0104,1,1,1,3,       yellow             leaves              falling,none,13:47:25
+L,10-Oct-2017,13:24:04,l,5,ASLQ, +0.0, +0.0,0.774,0.067,Fbabble1_not_filtered_0_905_slower,ASLQ0105,1,1,1,3,       cat                played              wool,none,13:47:29
+L,10-Oct-2017,13:24:04,l,6,ASLQ, +0.0, +0.0,0.707,0.067,Fbabble1_not_filtered_0_905_slower,ASLQ0106,1,1,1,3,       bag                very                heavy,none,13:47:32
+L,10-Oct-2017,13:24:04,l,7,ASLQ, +0.0, +0.0,0.641,0.067,Fbabble1_not_filtered_0_905_slower,ASLQ0107,1,1,1,3,       towel              dripped             carpet,none,13:47:36
+L,10-Oct-2017,13:24:04,l,8,ASLQ, +0.0, +0.0,0.574,0.067,Fbabble1_not_filtered_0_905_slower,ASLQ0108,1,1,1,3,       bull               chased              lady,none,13:47:40
+L,10-Oct-2017,13:24:04,l,9,ASLQ, +0.0, +0.0,0.507,0.067,Fbabble1_not_filtered_0_905_slower,ASLQ0109,1,1,1,3,       man                dug                 garden,none,13:47:45

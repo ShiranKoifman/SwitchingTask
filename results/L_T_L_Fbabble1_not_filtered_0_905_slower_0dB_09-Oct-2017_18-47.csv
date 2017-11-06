@@ -1,0 +1,5 @@
+listener,date,sTime,ear,trial,targets,SNR,OutLevelChange,duty,change,masker,wave,w1,w2,w3,sum,PlayedSentence,TypedSentence,total,rTime,rev
+L,09-Oct-2017,18:47:06,L,1,ASLQ, +0.0, +0.0,1.000,0.000,Fbabble1_not_filtered_0_905_slower,ASLQ0101,1,1,1,3,       they               moved               furniture,none,18:47:13
+L,09-Oct-2017,18:47:06,L,2,ASLQ, +0.0, +0.0,1.000,0.000,Fbabble1_not_filtered_0_905_slower,ASLQ0102,1,1,1,3,       he's               wiping              table,none,18:47:19
+L,09-Oct-2017,18:47:06,L,3,ASLQ, +0.0, +0.0,1.000,0.000,Fbabble1_not_filtered_0_905_slower,ASLQ0103,1,1,1,3,       he                 hit                 head,none,18:47:25
+L,09-Oct-2017,18:47:06,L,4,ASLQ, +0.0, +0.0,1.000,0.000,Fbabble1_not_filtered_0_905_slower,ASLQ0104,1,1,1,3,       yellow             leaves              falling,none,18:47:30

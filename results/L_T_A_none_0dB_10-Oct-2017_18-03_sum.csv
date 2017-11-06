@@ -1,0 +1,4 @@
+listener,date,sTime,endTime,ear,SelfResponse,type,stimuli,noise,SNR,version,finish,uRevs,sdRevs,nRevs,nTrials,uLevs,sdLevs,nLevs
+L,10-Oct-2017,18:03:00,18:03:03,A,0,ASL,ASLQ,none,0,Version 4.6,QUIT,,,0,1,,,0
+listener,date,sTime,endTime,ear,SelfResponse,type,stimuli,noise,SNR,version,finish,nCorrect,nKeys,pc,nTrials
+L,10-Oct-2017,18:03:14,18:03:45,A,0,ASL,ASLQ,none,0,Version 4.6,QUIT,27,27,1,10,

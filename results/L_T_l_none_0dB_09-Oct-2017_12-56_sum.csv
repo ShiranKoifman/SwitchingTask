@@ -1,0 +1,2 @@
+listener,date,sTime,endTime,ear,SelfResponse,type,stimuli,noise,SNR,version,finish,nCorrect,nKeys,pc,nTrials
+L,09-Oct-2017,12:56:47,12:57:31,l,0,ASL,ASLQ,none,0,Version 4.6,QUIT,3,3,1,2,

@@ -1,0 +1,10 @@
+listener,date,sTime,ear,trial,targets,SNR,OutLevelChange,duty,change,masker,wave,w1,w2,w3,sum,PlayedSentence,TypedSentence,total,rTime,revlistener,date,sTime,ear,trial,targets,SNR,OutLevelChange,duty,change,masker,wave,w1,w2,w3,sum,PlayedSentence,TypedSentence,total,rTime,rev
+L,10-Oct-2017,18:03:14,A,1,ASLQ, +0.0, +0.0,0.970,0.000,none,ASLQ0101,1,1,1,3,       they               moved               furniture,none,18:03:17
+L,10-Oct-2017,18:03:14,A,2,ASLQ, +0.0, +0.0,0.970,0.000,none,ASLQ0102,1,1,1,3,       he's               wiping              table,none,18:03:20
+L,10-Oct-2017,18:03:14,A,3,ASLQ, +0.0, +0.0,0.970,0.000,none,ASLQ0103,1,1,1,3,       he                 hit                 head,none,18:03:23
+L,10-Oct-2017,18:03:14,A,4,ASLQ, +0.0, +0.0,0.970,0.000,none,ASLQ0104,1,1,1,3,       yellow             leaves              falling,none,18:03:26
+L,10-Oct-2017,18:03:14,A,5,ASLQ, +0.0, +0.0,0.970,0.000,none,ASLQ0105,1,1,1,3,       cat                played              wool,none,18:03:29
+L,10-Oct-2017,18:03:14,A,6,ASLQ, +0.0, +0.0,0.970,0.000,none,ASLQ0106,1,1,1,3,       bag                very                heavy,none,18:03:32
+L,10-Oct-2017,18:03:14,A,7,ASLQ, +0.0, +0.0,0.970,0.000,none,ASLQ0107,1,1,1,3,       towel              dripped             carpet,none,18:03:35
+L,10-Oct-2017,18:03:14,A,8,ASLQ, +0.0, +0.0,0.970,0.000,none,ASLQ0108,1,1,1,3,       bull               chased              lady,none,18:03:39
+L,10-Oct-2017,18:03:14,A,9,ASLQ, +0.0, +0.0,0.970,0.000,none,ASLQ0109,1,1,1,3,       man                dug                 garden,none,18:03:42listener,date,sTime,ear,trial,targets,SNR,OutLevelChange,duty,change,masker,wave,w1,w2,w3,sum,PlayedSentence,TypedSentence,total,rTime,rev

@@ -1,0 +1,5 @@
+InputDir,FileName,L/R,SampFreq,nPoints,duration,MaxAmp,rms,dB
+maskers\New folder,00Fx,L,22050,524288,      23.777,    0.9873,  0.2019,-10.9
+maskers\New folder,AM_ModSSN_20170519,L,22050,386732,      17.539,    0.4933,  0.0465,-23.6
+maskers\New folder,Fbabble1,L,22050,386732,      17.539,    0.9088,  0.0880,-18.1
+maskers\New folder,Fbabble1_20170519,L,22050,386732,      17.539,    0.9990,  0.0390,-25.2

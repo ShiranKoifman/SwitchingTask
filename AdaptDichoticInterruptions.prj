@@ -1,0 +1,150 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration build-checksum="2097047290" file="C:\Distributions\AdaptDichoticInterruptions\AdaptDichoticInterruptions.prj" location="C:\Distributions\AdaptDichoticInterruptions" name="AdaptDichoticInterruptions" preferred-package-location="C:\Distributions\AdaptDichoticInterruptions\AdaptDichoticInterruptions\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>AdaptDichoticInterruptions</param.appname>
+    <param.icon />
+    <param.icons />
+    <param.version>1.0</param.version>
+    <param.authnamewatermark>Stuart Rosen</param.authnamewatermark>
+    <param.email>stuart@phon.ucl.ac.uk</param.email>
+    <param.company>UCL</param.company>
+    <param.summary />
+    <param.description />
+    <param.screenshot>${PROJECT_ROOT}\splash.png</param.screenshot>
+    <param.guid />
+    <param.installpath.string>\UCL\AdaptDichoticInterruptions\</param.installpath.string>
+    <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
+    <param.logo />
+    <param.install.notes />
+    <param.target.install.notes />
+    <param.intermediate>${PROJECT_ROOT}\AdaptDichoticInterruptions\for_testing</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\AdaptDichoticInterruptions\for_redistribution_files_only</param.files.only>
+    <param.output>${PROJECT_ROOT}\AdaptDichoticInterruptions\for_redistribution</param.output>
+    <param.logdir>${PROJECT_ROOT}\AdaptDichoticInterruptions</param.logdir>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.embed.ctf>true</param.embed.ctf>
+    <param.target.type>subtarget.standalone</param.target.type>
+    <param.support.packages />
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>false</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>true</param.windows.command.prompt>
+    <param.create.log>false</param.create.log>
+    <param.log.file />
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.summary />
+      <param.description />
+      <param.guid />
+      <param.installpath.string />
+      <param.logo />
+      <param.target.install.notes />
+      <param.intermediate />
+      <param.files.only />
+      <param.output />
+      <param.logdir />
+      <param.enable.clean.build />
+      <param.user.defined.mcr.options />
+      <param.embed.ctf />
+      <param.target.type />
+      <param.support.packages />
+      <param.web.mcr />
+      <param.package.mcr />
+      <param.no.mcr />
+      <param.web.mcr.name />
+      <param.package.mcr.name />
+      <param.no.mcr.name />
+      <param.windows.command.prompt />
+      <param.create.log />
+      <param.log.file />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\AdaptDichoticInterruptions.m</file>
+    </fileset.main>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\add_noise.m</file>
+      <file>${PROJECT_ROOT}\AddNoiseReturnAnother.m</file>
+      <file>${PROJECT_ROOT}\ASLscore.fig</file>
+      <file>${PROJECT_ROOT}\ASLscore.m</file>
+      <file>${PROJECT_ROOT}\Bouncy.JPG</file>
+      <file>${PROJECT_ROOT}\CAL.fig</file>
+      <file>${PROJECT_ROOT}\CAL.m</file>
+      <file>${PROJECT_ROOT}\finish.fig</file>
+      <file>${PROJECT_ROOT}\finish.m</file>
+      <file>${PROJECT_ROOT}\GenerateWavSections.m</file>
+      <file>${PROJECT_ROOT}\GoOrMessageButton.fig</file>
+      <file>${PROJECT_ROOT}\GoOrMessageButton.m</file>
+      <file>${PROJECT_ROOT}\IEEE.fig</file>
+      <file>${PROJECT_ROOT}\IEEE.m</file>
+      <file>${PROJECT_ROOT}\interrupt.m</file>
+      <file>${PROJECT_ROOT}\interruptAlt.m</file>
+      <file>${PROJECT_ROOT}\interruptDich.m</file>
+      <file>${PROJECT_ROOT}\interruptWave.m</file>
+      <file>${PROJECT_ROOT}\interruptWaveAlt.m</file>
+      <file>${PROJECT_ROOT}\NewTaper.m</file>
+      <file>${PROJECT_ROOT}\no_clip.m</file>
+      <file>${PROJECT_ROOT}\rms.m</file>
+      <file>${PROJECT_ROOT}\samplify.m</file>
+      <file>${PROJECT_ROOT}\sendRMEmessage.m</file>
+      <file>${PROJECT_ROOT}\SetLevels.m</file>
+      <file>${PROJECT_ROOT}\SetMatlabVolume.m</file>
+      <file>${PROJECT_ROOT}\SimpleAddWavs.m</file>
+      <file>${PROJECT_ROOT}\TaperInSamples.m</file>
+      <file>${PROJECT_ROOT}\TestSpecs.fig</file>
+      <file>${PROJECT_ROOT}\TestSpecs.m</file>
+    </fileset.resources>
+    <fileset.package />
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\ensureWavExtension.m</file>
+    </fileset.depfun>
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\AdaptDichoticInterruptions\for_testing" name="splash.png" optional="false">C:\Distributions\AdaptDichoticInterruptions\AdaptDichoticInterruptions\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\AdaptDichoticInterruptions\for_testing" name="AdaptDichoticInterruptions.exe" optional="false">C:\Distributions\AdaptDichoticInterruptions\AdaptDichoticInterruptions\for_testing\AdaptDichoticInterruptions.exe</file>
+      <file location="${PROJECT_ROOT}\AdaptDichoticInterruptions\for_testing" name="readme.txt" optional="true">C:\Distributions\AdaptDichoticInterruptions\AdaptDichoticInterruptions\for_testing\readme.txt</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2016a</root>
+      <toolboxes>
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabcoder" />
+        <toolbox name="matlabhdlcoder" />
+      </toolboxes>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>6.1</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>

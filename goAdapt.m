@@ -1,0 +1,1 @@
+AdaptDichoticInterruptions('SNR', '00', 'Ear', 'A',  'MaxTrials', '3', 'Listener', 'L27a', 'ListNumber',  '5.5') 

@@ -1,0 +1,2 @@
+listener,date,sTime,ear,trial,targets,SNR,OutLevelChange,duty,change,masker,wave,w1,w2,w3,sum,PlayedSentence,TypedSentence,total,rTime,rev
+test_Prac,03-Oct-2017,19:23:53,A,1,BKBQ, +0.0, +0.0,0.970,0.120,none,BKBQ1801,1,1,1,3, cake shop's opening ,xxxxx,19:24:04

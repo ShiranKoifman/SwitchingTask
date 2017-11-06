@@ -1,0 +1,5 @@
+nBlocks,nPracticeTrials,TestType,fixed,SelfResponse,UnProcDir,SentenceDirectory,ModulationRate,start_DC,ListNumber,NoiseFile,SNR_dB,MaxTrials,FINAL_TURNS,ear,StartMessage,
+1,0,adaptiveUp,masker,1,none,BKBQ,5,0.97,1,AMSSN.txt,0,15,6,A,,
+1,0,adaptiveUp,masker,1,none,BKBQ,5,0.97,2,FxNx.txt,0,15,6,A,,
+1,0,adaptiveUp,masker,1,none,BKBQ,5,0.97,3,Speech.txt,0,15,6,A,,
+1,0,adaptiveUp,target,1,none,BKBQ,5,0.97,4,none,0,15,6,A,,
