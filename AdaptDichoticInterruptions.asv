@@ -76,19 +76,22 @@ MIN_DC = 0.05;
 %% Settings for level
 % ispc check if the current operating system is Windows or Mac
 if ispc == 1 %its a PC!
-   %[~, computername] = system('hostname')
-   VolumeSettingsFile='VolumeSettings.txt';
-   [in_rms, out_rms]=SetLevels(VolumeSettingsFile);
-else % --> its a mac!
-    in_rms = 0.0;    
-    out_rms = 0.04;
-% %     computername = getenv('USER'); % also 'HOSTNAME' sometimes works 
-% %         if strcmp(computername, 'SHIRAN')  % --> it’s a mac!
-% %             in_rms = 0.0;    
-% %             out_rms = 0.04;
-% %         end
-% % end
+   [~, computername] = system('hostname')
+else % its a mac
+computername = getenv('USER'); % also 'HOSTNAME' sometimes works 
 end
+
+strcmp(TestType,'fixed')
+
+if stcomputername == 'SHIRAN'  % --> it’s a mac!
+in_rms = 0.0;    
+out_rms = 0.04;
+elseif computername == 'PC'
+VolumeSettingsFile='VolumeSettings.txt';
+[in_rms, out_rms]=SetLevels(VolumeSettingsFile);
+end
+	
+
 
 
 % main volume for mac [seems not to work!]
